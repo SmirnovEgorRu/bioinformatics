@@ -1,3 +1,3 @@
 # bioinformatics
 
-Labs from this cource: https://stepik.org/course/45305/syllabus
+Labs from this course: https://stepik.org/course/45305/syllabus
